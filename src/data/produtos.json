@@ -1,0 +1,577 @@
+[
+  {
+    "id": "pc-gamer-entry-ryzen-5",
+    "nome": "PC Gamer Entry - Ryzen 5 4600G / 16GB RAM / SSD 480GB",
+    "preco": "R$ 1.999,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?q=80&w=500&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0BP3T1699"
+  },
+  {
+    "id": "pc-gamer-completo-ryzen-5",
+    "nome": "PC Gamer Completo - Ryzen 5 5600G / 16GB / SSD 512GB + Monitor",
+    "preco": "R$ 2.899,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=500&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0C3W3944L"
+  },
+  {
+    "id": "computador-home-office-i5",
+    "nome": "Computador Home Office - Core i5 / 8GB RAM / SSD 256GB",
+    "preco": "R$ 1.350,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?q=80&w=500&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3123456789-_JM"
+  },
+  {
+    "id": "pc-gamer-intermediario-i7",
+    "nome": "PC Gamer Intermediário - Core i7 / 16GB / SSD 480GB / Placa Dedicada",
+    "preco": "R$ 3.499,90",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3234567890-_JM"
+  },
+  {
+    "id": "pc-gamer-entrada-i5-10ger",
+    "nome": "PC Gamer Entrada - Core i5 10ª Ger / 16GB / SSD 480GB",
+    "preco": "R$ 2.199,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B08XN35D62"
+  },
+  {
+    "id": "notebook-lenovo-ideapad-1",
+    "nome": "Notebook Lenovo IdeaPad 1 - Ryzen 5 / 8GB / 256GB SSD",
+    "preco": "R$ 2.499,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0BXZ4X8P4"
+  },
+  {
+    "id": "notebook-asus-vivobook-15",
+    "nome": "Notebook ASUS Vivobook 15 - Core i5 / 8GB / 256GB SSD",
+    "preco": "R$ 2.799,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3345678901-_JM"
+  },
+  {
+    "id": "notebook-acer-aspire-5",
+    "nome": "Notebook Acer Aspire 5 - Core i5 12ª Ger / 8GB / 512GB SSD",
+    "preco": "R$ 2.999,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0BRY29XQX"
+  },
+  {
+    "id": "notebook-samsung-book",
+    "nome": "Notebook Samsung Book - Celeron / 4GB / 128GB SSD (Estudo)",
+    "preco": "R$ 1.599,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3456789012-_JM"
+  },
+  {
+    "id": "notebook-acer-nitro-v15",
+    "nome": "Notebook Gamer - Acer Nitro V15 / i5 / 8GB / RTX 2050",
+    "preco": "R$ 4.399,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0D1234567"
+  },
+  {
+    "id": "placa-video-gtx-1650",
+    "nome": "Placa de Vídeo NVIDIA GTX 1650 4GB GDDR6",
+    "preco": "R$ 899,90",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3567890123-_JM"
+  },
+  {
+    "id": "placa-video-rx-6600",
+    "nome": "Placa de Vídeo AMD Radeon RX 6600 8GB GDDR6",
+    "preco": "R$ 1.399,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B09H32XQWN"
+  },
+  {
+    "id": "placa-video-rtx-3060",
+    "nome": "Placa de Vídeo NVIDIA RTX 3060 12GB",
+    "preco": "R$ 1.899,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3678901234-_JM"
+  },
+  {
+    "id": "placa-video-rtx-4060",
+    "nome": "Placa de Vídeo NVIDIA RTX 4060 8GB DLSS 3",
+    "preco": "R$ 2.099,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0C48Z3H28"
+  },
+  {
+    "id": "placa-video-rx-7600",
+    "nome": "Placa de Vídeo AMD Radeon RX 7600 8GB",
+    "preco": "R$ 1.749,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3789012345-_JM"
+  },
+  {
+    "id": "mouse-logitech-g203",
+    "nome": "Mouse Gamer Logitech G203 Lightsync RGB",
+    "preco": "R$ 139,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B089XVGNRJ"
+  },
+  {
+    "id": "mouse-razer-deathadder-v2-x",
+    "nome": "Mouse Gamer sem Fio Razer DeathAdder V2 X HyperSpeed",
+    "preco": "R$ 269,90",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3890123456-_JM"
+  },
+  {
+    "id": "mouse-redragon-cobra",
+    "nome": "Mouse Gamer Redragon Cobra M711 RGB",
+    "preco": "R$ 119,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B075L9WMM7"
+  },
+  {
+    "id": "mouse-hyperx-pulsefire-haste",
+    "nome": "Mouse Gamer HyperX Pulsefire Haste",
+    "preco": "R$ 229,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-3901234567-_JM"
+  },
+  {
+    "id": "mouse-logitech-g-pro-wireless",
+    "nome": "Mouse Gamer Logitech G Pro Wireless",
+    "preco": "R$ 499,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B07GCKQD37"
+  },
+  {
+    "id": "teclado-redragon-kumara",
+    "nome": "Teclado Mecânico Gamer Redragon Kumara ABNT2",
+    "preco": "R$ 199,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B07V3Z1KC3"
+  },
+  {
+    "id": "teclado-logitech-mecanico",
+    "nome": "Teclado Mecânico Sem Fio Logitech G713 / G915 TKL",
+    "preco": "R$ 699,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4012345678-_JM"
+  },
+  {
+    "id": "teclado-hyperx-origins-60",
+    "nome": "Teclado Mecânico 60% HyperX Alloy Origins 60",
+    "preco": "R$ 389,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B08XMDL7K9"
+  },
+  {
+    "id": "teclado-motospeed-k87s",
+    "nome": "Teclado Mecânico Gamer Motospeed K87S RGB",
+    "preco": "R$ 229,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4123456789-_JM"
+  },
+  {
+    "id": "teclado-gamer-multimidia",
+    "nome": "Teclado Gamer Semi-Mecânico Multimídia Usb",
+    "preco": "R$ 89,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B09XYZ1234"
+  },
+  {
+    "id": "headset-hyperx-cloud-stinger-2",
+    "nome": "Headset Gamer HyperX Cloud Stinger 2",
+    "preco": "R$ 229,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0B6Z4N1WX"
+  },
+  {
+    "id": "headset-logitech-g435",
+    "nome": "Headset Gamer Logitech G435 Lightspeed Sem Fio",
+    "preco": "R$ 389,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4234567890-_JM"
+  },
+  {
+    "id": "headset-redragon-zeus",
+    "nome": "Headset Gamer Redragon Zeus H510 Surround 7.1",
+    "preco": "R$ 279,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B07W42V2F6"
+  },
+  {
+    "id": "headset-jbl-quantum-100",
+    "nome": "Headset Gamer JBL Quantum 100",
+    "preco": "R$ 179,90",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4345678901-_JM"
+  },
+  {
+    "id": "headset-razer-blackshark-v2-x",
+    "nome": "Headset Gamer Razer BlackShark V2 X",
+    "preco": "R$ 299,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B086PK73RB"
+  },
+  {
+    "id": "cadeira-gamer-thunderx3",
+    "nome": "Cadeira Gamer ThunderX3 BC1 Ergônomica",
+    "preco": "R$ 899,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1598550476439-6847785fcea6?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B088V8J579"
+  },
+  {
+    "id": "cadeira-gamer-mancer-valak",
+    "nome": "Cadeira Gamer Mancer Valak Preta e Vermelha",
+    "preco": "R$ 749,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1580481077494-e3299ac2510e?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4456789012-_JM"
+  },
+  {
+    "id": "cadeira-gamer-dt3-elise",
+    "nome": "Cadeira Gamer DT3 Sports Elise",
+    "preco": "R$ 1.199,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1598550476439-6847785fcea6?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B07SHW9C2J"
+  },
+  {
+    "id": "cadeira-escritorio-mesh",
+    "nome": "Cadeira de Escritório Presidente Ergonômica Tela Mesh",
+    "preco": "R$ 599,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1580481077494-e3299ac2510e?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4567890123-_JM"
+  },
+  {
+    "id": "cadeira-gamer-pichau",
+    "nome": "Cadeira Gamer Pichau Omega L",
+    "preco": "R$ 829,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1598550476439-6847785fcea6?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0B9XYZ789"
+  },
+  {
+    "id": "monitor-lg-75hz",
+    "nome": "Monitor Gamer LG 21.5 Polegadas Full HD 75Hz",
+    "preco": "R$ 549,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B08WK6V49F"
+  },
+  {
+    "id": "monitor-samsung-curvo-144hz",
+    "nome": "Monitor Gamer Curvo Samsung 24\" 144Hz 1ms",
+    "preco": "R$ 899,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4678901234-_JM"
+  },
+  {
+    "id": "monitor-aoc-hero-165hz",
+    "nome": "Monitor Gamer AOC Hero 27\" IPS 165Hz 1ms",
+    "preco": "R$ 1.199,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B08W1W39SW"
+  },
+  {
+    "id": "microfone-fifine-k669b",
+    "nome": "Microfone Condensador USB Fifine AmpliGame K669B",
+    "preco": "R$ 249,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4789012345-_JM"
+  },
+  {
+    "id": "webcam-logitech-c920s",
+    "nome": "Webcam Logitech C920s Full HD 1080p com Tampa",
+    "preco": "R$ 399,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B07ZPCVVK8"
+  },
+  {
+    "id": "mousepad-gamer-grande",
+    "nome": "Mousepad Gamer Grande Speed Extra Large (90x40cm)",
+    "preco": "R$ 69,90",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4890123456-_JM"
+  },
+  {
+    "id": "kit-upgrade-ryzen-5",
+    "nome": "Kit Upgrade Placa Mãe A520M + Ryzen 5 4600G + 16GB RAM",
+    "preco": "R$ 1.249,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0B5XYZ789"
+  },
+  {
+    "id": "ssd-kingston-500gb",
+    "nome": "SSD NVMe M.2 500GB Kingston NV2 PCIe 4.0",
+    "preco": "R$ 279,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-4901234567-_JM"
+  },
+  {
+    "id": "ssd-crucial-1tb",
+    "nome": "SSD NVMe M.2 1TB Crucial P3 Plus",
+    "preco": "R$ 449,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0B2WKPRQS"
+  },
+  {
+    "id": "memoria-ram-16gb-kingston",
+    "nome": "Memória RAM 16GB (2x8GB) DDR4 3200MHz Kingston Fury Beast",
+    "preco": "R$ 329,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1562976540-1e02c50c1c85?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-5012345678-_JM"
+  },
+  {
+    "id": "fonte-msi-650w",
+    "nome": "Fonte Gamer MSI MAG A650BN 650W 80 Plus Bronze",
+    "preco": "R$ 319,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0991TZW4G"
+  },
+  {
+    "id": "gabinete-pichau-apus",
+    "nome": "Gabinete Gamer Pichau Apus Lateral em Vidro",
+    "preco": "R$ 229,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-5123456789-_JM"
+  },
+  {
+    "id": "controle-dualsense-ps5",
+    "nome": "Controlador sem Fio DualSense para PlayStation 5",
+    "preco": "R$ 399,90",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1606318801954-d46d46d3360a?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B08K3S4R23"
+  },
+  {
+    "id": "controle-xbox-series",
+    "nome": "Controle sem Fio Xbox Carbon Black para Xbox/PC",
+    "preco": "R$ 419,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-5234567890-_JM"
+  },
+  {
+    "id": "console-ps5-slim",
+    "nome": "Console PlayStation 5 Slim Edição Digital",
+    "preco": "R$ 3.699,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B0CMZ6W44V"
+  },
+  {
+    "id": "console-xbox-series-s",
+    "nome": "Console Xbox Series S 512GB Branco",
+    "preco": "R$ 2.399,00",
+    "loja": "Mercado Livre",
+    "badgeColor": "bg-yellow-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://produto.mercadolivre.com.br/MLB-5345678901-_JM"
+  },
+  {
+    "id": "roteador-tp-link-wifi6",
+    "nome": "Roteador Wi-Fi 6 Gigabit TP-Link Archer AX1500",
+    "preco": "R$ 299,00",
+    "loja": "Amazon",
+    "badgeColor": "bg-orange-500",
+    "imagens": [
+      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=500&auto=format&fit=crop"
+    ],
+    "link": "https://www.amazon.com.br/dp/B085ZTMJPB"
+  }
+]
